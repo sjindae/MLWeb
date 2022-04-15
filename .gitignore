@@ -1,4 +1,6 @@
 # 깃에 올리지 않을 파일들 지정 가능
 model1.pickle
 model2.pickle
-upload/
+upload/    
+# 이미 올려버린 파일은 어쩔 수 없다.
+# gitignore 작성법 찾아서 공부하셈
